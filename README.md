@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![OpenApi](https://github.com/robotic-s/openapi/releases/download/asset/openapi.png.webp)
 
 A powerful Python client interface for interacting with YouTube data through SytmusciAPI. Access YouTube music data, including search, recommendations, trending music, and more with ease! 🚀
 
