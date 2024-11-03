@@ -38,7 +38,7 @@ A powerful Python client interface for interacting with YouTube data through Syt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/openapi.git
+git clone https://github.com/robotic-s/openapi.git
 ```
 
 2. Navigate to the project directory:
