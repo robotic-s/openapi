@@ -44,7 +44,7 @@ git clone https://github.com/robotic-s/openapi.git
 
 2. Navigate to the project directory:
 ```bash
-cd openapi
+cd openapi/openapi
 ```
 
 3. Install required dependencies:
